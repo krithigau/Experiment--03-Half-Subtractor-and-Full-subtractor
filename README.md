@@ -37,30 +37,38 @@ RegisterNumber: 23006499
 
 ## Code:
 HALF SUBTRACTOR
+
 ![HS CODE](https://github.com/krithigau/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319401/c208d5c7-2226-4428-a00c-d7157f901a1f)
 
 FULL SUBTRACTOR
+
 ![FS code](https://github.com/krithigau/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319401/f6b31e70-90fc-4402-a25f-4fcb3a12e590)
 
 ## Truthtable
 HALF SUBTRACTOR
+
 ![TT for HS](https://github.com/krithigau/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319401/f392844c-88b7-4eed-8a0d-0596ca6f56c0)
 
 FULL SUBTRACTOR
+
 ![TT FOR FS](https://github.com/krithigau/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319401/666cc306-1e83-4ed1-9896-90ecb94572f5)
 
 ##  RTL realization
 HALF SUBTRACTOR
+
 ![HS RTL](https://github.com/krithigau/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319401/49cdaec2-0170-4ef3-b9e7-fd01120400f1)
 
 FULL SUBTRACTOR
+
 ![RTL for FS](https://github.com/krithigau/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319401/5d040e9d-13d6-4c0d-a4be-afcf975f69df)
 
 ## Timing diagram 
 HALF SUBTRACTOR
+
 ![Timeline for HS (2)](https://github.com/krithigau/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319401/423f02fe-e3de-4fd7-8139-4fc1e1321a68)
 
 FULL SUBTRACTOR
+
 ![Timeline for FS](https://github.com/krithigau/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150319401/117423c6-5683-48fe-bc6d-3a2e09ce9283)
 
 ## Result:
